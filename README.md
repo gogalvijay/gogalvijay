@@ -5,9 +5,12 @@ I focus on building high-performance applications, operating systems, and networ
 
 ---
 
-### 🛠️ Tech Stack
-* **Languages:** C, C++, JavaScript
-* **Interests:** Operating Systems, Multi-threading, Network Programming, Linux Kernel
+### 🛠️ Core Tech Stack & Tools
+Showcasing the foundational technologies essential for systems and low-level development.
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,vim,docker,nodejs,vscode,js,html" />
+</p>
 
 ---
 
@@ -22,6 +25,9 @@ I focus on building high-performance applications, operating systems, and networ
 
 ---
 
-### 📊 GitHub Stats
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogalvijay&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogalvijay&layout=compact&theme=radical)
+### 🏆 Achievements
+A visual showcase of my contributions on GitHub.
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=gogalvijay&theme=radical&no-frame=true&no-bg=true" />
+</p>
