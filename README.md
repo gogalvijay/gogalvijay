@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Vijay! 👋
 
-<!--
-**gogalvijay/gogalvijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Systems Programmer & Low-Level Enthusiast
+I focus on building high-performance applications, operating systems, and networking tools from scratch.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** C, C++, JavaScript
+* **Interests:** Operating Systems, Multi-threading, Network Programming, Linux Kernel
+
+---
+
+### 🔭 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[JobFlow](https://github.com/gogalvijay/JobFlow)** | A customized multi-threading project demonstrating concurrent execution. | `C++` |
+| **[Http-Server](https://github.com/gogalvijay/Http-Server)** | A lightweight HTTP server built from scratch using low-level sockets. | `C` |
+| **[OS-xv6-riscv](https://github.com/gogalvijay/OS-with-xv6-riscv)** | My experiments with OS concepts and the Linux-like xv6 kernel. | `C` `RISC-V` |
+| **[BitTorrent](https://github.com/gogalvijay/BitTorrent)** | A custom client implementation of the BitTorrent protocol. | `C++` |
+
+---
+
+### 📊 GitHub Stats
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogalvijay&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogalvijay&layout=compact&theme=radical)
