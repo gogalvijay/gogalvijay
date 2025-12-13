@@ -5,18 +5,22 @@ I focus on building high-performance applications, operating systems, and networ
 
 ---
 
----
-
 ### 🏆 Competitive Programming Scorecard
 Showcasing problem-solving aptitude with my current platform ratings.
 
 <div align="left">
-    <img src="https://img.shields.io/badge/Codeforces-1900-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Rating 1900" />
+    <!-- Dynamic Codeforces Badge -->
+    <a href="https://codeforces.com/profile/gogalvijay">
+        <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2Fgogalvijay" alt="Codeforces Rating" />
+    </a>
     
-    &nbsp; &nbsp; <img src="https://img.shields.io/badge/Codechef-1853-yellowgreen?style=for-the-badge&logo=codechef" alt="Codechef Rating 1853" />
+    &nbsp; &nbsp;
+    
+    <!-- Dynamic CodeChef Badge -->
+    <a href="https://www.codechef.com/users/gogalvijay">
+        <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fgogalvijay" alt="CodeChef Rating" />
+    </a>
 </div>
-
-
 
 ---
 
