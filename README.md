@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" />
   <h1>Hi there, I'm Vijay! 👋</h1>
-  <p><b>Systems Programmer | Competitive Programmer | Low-Level Enthusiast</b></p>
-  <p><i>Building high-performance applications, operating systems, and networking tools from scratch.</i></p>
+  <p><b>Under-the-Hood Dev | Systems Tinkerer | Bit Wrangler | Pointer Whisperer | Stack Explorer  </b></p>
+  <p><i>Making computers do exactly what they’re told… But unfortunately......</i></p>
 
   <!-- Visitor Counter -->
   <a href="https://github.com/gogalvijay">
