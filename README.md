@@ -16,11 +16,11 @@ Showcasing problem-solving aptitude with my current platform ratings.
 
   &nbsp; &nbsp;
 
-  <!-- CodeChef Dynamic Badge -->
-  <a href="https://www.codechef.com/users/gogalvijay">
-    <img src="https://codechef-readme-stats.onrender.com/gogalvijay?v=1" alt="CodeChef Rating">
-  </a>
-</div>
+  <!-- CodeChef Static Badge -->
+<a href="https://www.codechef.com/users/gogalvijay">
+  <img src="https://img.shields.io/badge/CodeChef-1853-5B3F78?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating">
+</a>
+
 
 
 ---
