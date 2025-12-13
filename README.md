@@ -5,8 +5,19 @@ I focus on building high-performance applications, operating systems, and networ
 
 ---
 
+### 🏆 Competitive Programming Scorecard
+Showcasing problem-solving aptitude with my current platform ratings.
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Codeforces-1900-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Rating 1900" />
+    
+    <img src="https://img.shields.io/badge/Codechef-1853-yellowgreen?style=for-the-badge&logo=codechef" alt="Codechef Rating 1853" />
+</p>
+
+---
+
 ### 🛠️ Core Tech Stack & Tools
-Showcasing the foundational technologies essential for systems and low-level development.
+The foundational technologies essential for systems and low-level development.
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,vim,docker,nodejs,vscode,js,html" />
@@ -22,12 +33,3 @@ Showcasing the foundational technologies essential for systems and low-level dev
 | **[Http-Server](https://github.com/gogalvijay/Http-Server)** | A lightweight HTTP server built from scratch using low-level sockets. | `C` |
 | **[OS-xv6-riscv](https://github.com/gogalvijay/OS-with-xv6-riscv)** | My experiments with OS concepts and the Linux-like xv6 kernel. | `C` `RISC-V` |
 | **[BitTorrent](https://github.com/gogalvijay/BitTorrent)** | A custom client implementation of the BitTorrent protocol. | `C++` |
-
----
-
-### 🏆 Achievements
-A visual showcase of my contributions on GitHub.
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=gogalvijay&theme=radical&no-frame=true&no-bg=true" />
-</p>
