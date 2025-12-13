@@ -9,19 +9,19 @@ I focus on building high-performance applications, operating systems, and networ
 Showcasing problem-solving aptitude with my current platform ratings.
 
 <div align="left">
-    <!-- Codeforces Dynamic Badge -->
-    <a href="https://codeforces.com/profile/gogalvijay">
-        <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2Fgogalvijay&cacheBust=1" alt="Codeforces Rating" />
-    </a>
-    
-    &nbsp; &nbsp;
-    
-    <!-- CodeChef Dynamic Badge -->
-<a href="https://www.codechef.com/users/gogalvijay">
-  <img src="https://codechef-readme-stats.onrender.com/gogalvijay?v=1" alt="CodeChef Rating">
-</a>
+  <!-- Codeforces Dynamic Badge -->
+  <a href="https://codeforces.com/profile/gogalvijay">
+    <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2Fgogalvijay&cacheBust=1" alt="Codeforces Rating" />
+  </a>
 
+  &nbsp; &nbsp;
+
+  <!-- CodeChef Dynamic Badge -->
+  <a href="https://www.codechef.com/users/gogalvijay">
+    <img src="https://codechef-readme-stats.onrender.com/gogalvijay?v=1" alt="CodeChef Rating">
+  </a>
 </div>
+
 
 ---
 
