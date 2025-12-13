@@ -16,9 +16,9 @@ Showcasing problem-solving aptitude with my current platform ratings.
     
     &nbsp; &nbsp;
     
-    <!-- CodeChef Dynamic Badge (Fixed Logo) -->
+    <!-- CodeChef Dynamic Badge (Using C++ Logo as fallback) -->
     <a href="https://www.codechef.com/users/gogalvijay">
-        <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fgogalvijay&logo=codechef&logoColor=white" alt="CodeChef Rating" />
+        <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Fgogalvijay&logo=cplusplus&logoColor=white" alt="CodeChef Rating" />
     </a>
 </div>
 
