@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/26tn33aiU1jFEOQKB0/giphy.gif" width="100" />
   <h1>Hi there, I'm Vijay! 👋</h1>
   <p><b>Systems Programmer | Competitive Programmer | Low-Level Enthusiast</b></p>
   <p><i>Building high-performance applications, operating systems, and networking tools from scratch.</i></p>
