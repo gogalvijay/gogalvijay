@@ -5,23 +5,18 @@ I focus on building high-performance applications, operating systems, and networ
 
 ---
 
+---
+
 ### 🏆 Competitive Programming Scorecard
 Showcasing problem-solving aptitude with my current platform ratings.
 
-<p align="left">
+<div align="left">
     <img src="https://img.shields.io/badge/Codeforces-1900-blue?style=for-the-badge&logo=codeforces" alt="Codeforces Rating 1900" />
     
-    <img src="https://img.shields.io/badge/Codechef-1853-yellowgreen?style=for-the-badge&logo=codechef" alt="Codechef Rating 1853" />
-</p>
+    &nbsp; &nbsp; <img src="https://img.shields.io/badge/Codechef-1853-yellowgreen?style=for-the-badge&logo=codechef" alt="Codechef Rating 1853" />
+</div>
 
----
 
-### 🛠️ Core Tech Stack & Tools
-The foundational technologies essential for systems and low-level development.
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,vim,docker,nodejs,vscode,js,html" />
-</p>
 
 ---
 
