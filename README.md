@@ -34,7 +34,7 @@
 
   <!-- CodeChef Static Badge (Stable Fix) -->
   <a href="https://www.codechef.com/users/gogalvijay">
-    <img src="https://img.shields.io/badge/CodeChef-1853-5B3F78?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating">
+    <img src="https://img.shields.io/badge/CodeChef-1938-5B3F78?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating">
   </a>
 </div>
 
