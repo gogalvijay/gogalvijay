@@ -20,7 +20,61 @@
 
 <br />
 
+<!-- Competitive Programming Section -->
 
+
+
+<h3>🏆 Competitive Programming Scorecard</h3>
+
+
+<p>Showcasing problem-solving aptitude with my current platform ratings.</p>
+
+
+
+
+<div align="left">
+
+
+  <!-- Codeforces Dynamic Badge -->
+
+
+  <a href="https://codeforces.com/profile/gogalvijay">
+
+
+    <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2Fgogalvijay&cacheBust=1" alt="Codeforces Rating" />
+
+
+  </a>
+
+
+
+
+
+  &nbsp;&nbsp;
+
+
+
+
+
+  <!-- CodeChef Static Badge (Stable Fix) -->
+
+
+  <a href="https://www.codechef.com/users/gogalvijay">
+
+
+    <img src="https://img.shields.io/badge/CodeChef-1938-5B3F78?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating">
+
+
+  </a>
+
+
+</div>
+
+
+
+
+
+<br />
 
 <!-- Featured Projects Table -->
 <h3>🔭 Featured Projects</h3>
