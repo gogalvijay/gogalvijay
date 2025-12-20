@@ -1,98 +1,70 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" />
-  <h1>Hi there, I'm Gogal Vijay! 👋</h1>
-  <p><b>Under-the-Hood Dev | Systems Tinkerer | Bit Wrangler | Pointer Whisperer | Stack Explorer  </b></p>
-  <p><i>Making computers do exactly what they’re told… But unfortunately......</i></p>
 
-  <!-- Visitor Counter -->
+  <h1>Hi there, I'm Gogal Vijay! 👋</h1>
+
+  <p>
+    <b>
+      Under-the-Hood Dev | Systems Tinkerer | Bit Wrangler |
+      Pointer Whisperer | Stack Explorer
+    </b>
+  </p>
+
+  <p>
+    <i>Making computers do exactly what they’re told… but unfortunately...</i>
+  </p>
+
   <a href="https://github.com/gogalvijay">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=gogalvijay.gogalvijay" alt="Visitor Count" />
+    <img
+      src="https://visitor-badge.laobi.icu/badge?page_id=gogalvijay.gogalvijay"
+      alt="Visitor Count"
+    />
   </a>
 </div>
 
-<br />
+---
 
-<!-- Tech Stack Section -->
-<h3>🛠️ Tech Stack & Tools</h3>
+### 🛠️ Tech Stack & Tools
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash,git,docker,vim&perline=10" alt="Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash,git,docker,vim&perline=10"
+    alt="Tech Stack"
+  />
 </div>
 
-<br />
+---
 
-<!-- Competitive Programming Section -->
-
-
-
-<h3>🏆 Competitive Programming Scorecard</h3>
-
+### 🏆 Competitive Programming Scorecard
 
 <p>Showcasing problem-solving aptitude with my current platform ratings.</p>
 
-
-
-
 <div align="left">
-
-
-  <!-- Codeforces Dynamic Badge -->
-
-
   <a href="https://codeforces.com/profile/gogalvijay">
-
-
-    <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2Fgogalvijay&cacheBust=1" alt="Codeforces Rating" />
-
-
+    <img
+      src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2Fgogalvijay&cacheBust=1"
+      alt="Codeforces Rating"
+    />
   </a>
-
-
-
-
 
   &nbsp;&nbsp;
 
-
-
-
-
-  <!-- CodeChef Static Badge (Stable Fix) -->
-
-
   <a href="https://www.codechef.com/users/gogalvijay">
-
-
-    <img src="https://img.shields.io/badge/CodeChef-1938-5B3F78?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating">
-
-
+    <img
+      src="https://img.shields.io/badge/CodeChef-1938-5B3F78?style=for-the-badge&logo=codechef&logoColor=white"
+      alt="CodeChef Rating"
+    />
   </a>
-
-
 </div>
 
+---
 
-
-
-
-<br />
-
-<!-- Featured Projects Table -->
-<h3>🔭 Featured Projects</h3>
+### 🔭 Featured Projects
 
 | Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[JobFlow](https://github.com/gogalvijay/JobFlow)** | A customized multi-threading project demonstrating concurrent execution. | `C++` `Threads` |
-| **[Http-Server](https://github.com/gogalvijay/Http-Server)** | A lightweight HTTP server built from scratch using low-level sockets. | `C` `Networking` |
-| **[OS-xv6-riscv](https://github.com/gogalvijay/OS-xv6-riscv)** | My experiments with OS concepts and the Linux-like xv6 kernel. | `C` `RISC-V` `OS` |
-| **[BitTorrent](https://github.com/gogalvijay/BitTorrent)** | A custom client implementation of the BitTorrent protocol. | `C++` `P2P` |
-| **[CSES-Problem-set-solution](https://github.com/gogalvijay/CSES)** | Solution for CSES problem set | `C++` `Data Structures` `Algorithms` |
-
-<br />
-
-
-
-<hr />
-
-<p align="center">
-  <i>Let's connect and build something scalable! 🚀</i>
-</p>
+|------|------------|------------|
+| **[JobFlow](https://github.com/gogalvijay/JobFlow)** | Customized multi-threading project demonstrating concurrent execution | `C++` `Threads` |
+| **[Http-Server](https://github.com/gogalvijay/Http-Server)** | Lightweight HTTP server built from scratch using low-level sockets | `C` `Networking` |
+| **[OS-xv6-riscv](https://github.com/gogalvijay/OS-xv6-riscv)** | Experiments with OS concepts using the xv6 RISC-V kernel | `C` `RISC-V` `OS` |
+| **[BitTorrent](https://github.com/gogalvijay/BitTorrent)** | Custom client implementation of the BitTorrent protocol | `C++` `P2P` |
+| **[CSES](https://github.com/gogalvijay/CSES)**
