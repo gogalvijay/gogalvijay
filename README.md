@@ -14,12 +14,7 @@
     <i>Making computers do exactly what they’re told… but unfortunately...</i>
   </p>
 
-  <a href="https://github.com/gogalvijay">
-    <img
-      src="https://visitor-badge.laobi.icu/badge?page_id=gogalvijay.gogalvijay"
-      alt="Visitor Count"
-    />
-  </a>
+ 
 </div>
 
 ---
