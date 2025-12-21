@@ -62,4 +62,4 @@
 | **[Http-Server](https://github.com/gogalvijay/Http-Server)** | Lightweight HTTP server built from scratch using low-level sockets | `C` `Networking` |
 | **[OS-xv6-riscv](https://github.com/gogalvijay/OS-xv6-riscv)** | Experiments with OS concepts using the xv6 RISC-V kernel | `C` `RISC-V` `OS` |
 | **[BitTorrent](https://github.com/gogalvijay/BitTorrent)** | Custom client implementation of the BitTorrent protocol | `C++` `P2P` |
-| **[CSES](https://github.com/gogalvijay/CSES)** | CSES Problem Set SOlutions | `C++` |
+| **[CSES](https://github.com/gogalvijay/CSES)** | CSES Problem Set Solutions | `C++` |
