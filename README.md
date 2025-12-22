@@ -5,61 +5,62 @@
 
   <p>
     <b>
-      Under-the-Hood Dev | Systems Tinkerer | Bit Wrangler |
+      Systems Engineer | Low-Level Developer | Bit Wrangler |
       Pointer Whisperer | Stack Explorer
     </b>
   </p>
 
   <p>
-    <i>Making computers do exactly what they’re told… but unfortunately...</i>
+    <i>"Writing code that talks to the hardware, because high-level abstractions are too quiet."</i>
   </p>
-
- 
+  
+  <p>
+    <a href="mailto:YOUR-EMAIL@example.com">
+      <img src="https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Tech Stack
 
 <div align="left">
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash,git,docker,vim&perline=10"
-    alt="Tech Stack"
-  />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash,git,docker,vim,cmake,mysql&perline=12" alt="Tech Stack" />
 </div>
 
 ---
 
-### 🏆 Competitive Programming Scorecard
+### 🏆 Problem Solving & Algorithms
 
-<p>Showcasing problem-solving aptitude with my current platform ratings.</p>
+<p>Proven aptitude in competitive programming and algorithmic optimization.</p>
 
 <div align="left">
   <a href="https://codeforces.com/profile/gogalvijay">
-    <img
-      src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2Fgogalvijay&cacheBust=1"
-      alt="Codeforces Rating"
-    />
+    <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2Fgogalvijay&cacheBust=1" alt="Codeforces Rating" />
   </a>
-
   &nbsp;&nbsp;
-
   <a href="https://www.codechef.com/users/gogalvijay">
-    <img
-      src="https://img.shields.io/badge/CodeChef-1938-5B3F78?style=for-the-badge&logo=codechef&logoColor=white"
-      alt="CodeChef Rating"
-    />
+    <img src="https://img.shields.io/badge/CodeChef-1938-5B3F78?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating" />
   </a>
 </div>
 
 ---
 
-### 🔭 Featured Projects
+### 🔭 Deep-Dive Systems Projects
 
-| Project | Description | Tech Stack |
-|------|------------|------------|
-| **[JobFlow](https://github.com/gogalvijay/JobFlow)** | Customized multi-threading project demonstrating concurrent execution | `C++` `Threads` |
-| **[Http-Server](https://github.com/gogalvijay/Http-Server)** | Lightweight HTTP server built from scratch using low-level sockets | `C` `Networking` |
-| **[OS-xv6-riscv](https://github.com/gogalvijay/OS-xv6-riscv)** | Experiments with OS concepts using the xv6 RISC-V kernel | `C` `RISC-V` `OS` |
-| **[BitTorrent](https://github.com/gogalvijay/BitTorrent)** | Custom client implementation of the BitTorrent protocol | `C++` `P2P` |
-| **[CSES](https://github.com/gogalvijay/CSES)** | CSES Problem Set Solutions | `C++` |
+| Project | Core Concepts | Highlights |
+| :--- | :--- | :--- |
+| **[BitTorrent Client](https://github.com/gogalvijay/BitTorrent)** | `P2P` `Bencoding` `TCP/IP` | Implemented the BitTorrent protocol from scratch: peer handshakes, tracker communication, and multi-threaded piece downloading. |
+| **[Http-Server](https://github.com/gogalvijay/Http-Server)** | `Sockets` `POSIX` `I/O` | A lightweight, dependency-free HTTP 1.1 server. Implemented manual socket management and header parsing in C. |
+| **[OS-xv6-riscv](https://github.com/gogalvijay/OS-xv6-riscv)** | `Kernels` `Virtual Memory` | Deep-dive into the xv6 kernel. Modified process scheduling and added system calls for hardware-level control. |
+| **[JobFlow](https://github.com/gogalvijay/JobFlow)** | `Concurrency` `Synchronization` | A custom thread-pool library. Solved race conditions using mutexes and condition variables for efficient task queuing. |
+
+---
+
+### 📊 Activity & Language Proficiency
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gogalvijay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogalvijay&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
