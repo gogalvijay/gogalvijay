@@ -15,7 +15,7 @@
   </p>
   
   <p>
-    <a href="mailto:YOUR-EMAIL@example.com">
+    <a href="mailto:gogalvijay@gmail.com">
       <img src="https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -61,6 +61,5 @@
 ### 📊 Activity & Language Proficiency
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gogalvijay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogalvijay&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
