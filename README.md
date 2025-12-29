@@ -58,8 +58,4 @@
 
 ---
 
-### 📊 Activity & Language Proficiency
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogalvijay&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
