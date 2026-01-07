@@ -6,12 +6,12 @@
   <p>
     <b>
       Systems Engineer | Low-Level Developer | Bit Wrangler |
-      Pointer Whisperer | Stack Explorer
+      Pointer Whisperer | Stack Explorer 
     </b>
   </p>
 
   <p>
-    <i>"Writing code that talks to the hardware, because high-level abstractions are too quiet."</i>
+    <i>"Writing code that talks to the hardware , because high-level abstractions are too quiet."</i>
   </p>
   
   <p>
