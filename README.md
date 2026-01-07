@@ -29,21 +29,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash,git,docker,vim,cmake,mysql&perline=12" alt="Tech Stack" />
 </div>
 
----
 
-### 🏆 Problem Solving & Algorithms
-
-<p>Proven aptitude in competitive programming and algorithmic optimization.</p>
-
-<div align="left">
-  <a href="https://codeforces.com/profile/gogalvijay">
-    <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2Fgogalvijay&cacheBust=1" alt="Codeforces Rating" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/gogalvijay">
-    <img src="https://img.shields.io/badge/CodeChef-1938-5B3F78?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating" />
-  </a>
-</div>
 
 ---
 
