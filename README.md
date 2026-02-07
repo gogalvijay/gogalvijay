@@ -5,8 +5,7 @@
 
   <p>
     <b>
-      Systems Engineer | Low-Level Developer | Bit Wrangler |
-      Pointer Whisperer | Stack Explorer 
+        I just code.
     </b>
   </p>
 
