@@ -36,10 +36,10 @@
 
 | Project | Core Concepts | Highlights |
 | :--- | :--- | :--- |
-| **[BitTorrent Client](https://github.com/gogalvijay/BitTorrent)** | `P2P` `Bencoding` `TCP/IP` | Implemented the BitTorrent protocol from scratch: peer handshakes, tracker communication, and multi-threaded piece downloading. |
-| **[Http-Server](https://github.com/gogalvijay/Http-Server)** | `Sockets` `POSIX` `I/O` | A lightweight, dependency-free HTTP 1.1 server. Implemented manual socket management and header parsing in C. |
-| **[OS-xv6-riscv](https://github.com/gogalvijay/OS-xv6-riscv)** | `Kernels` `Virtual Memory` | Deep-dive into the xv6 kernel. Modified process scheduling and added system calls for hardware-level control. |
-| **[JobFlow](https://github.com/gogalvijay/JobFlow)** | `Concurrency` `Synchronization` | A custom thread-pool library. Solved race conditions using mutexes and condition variables for efficient task queuing. |
+| **[TeleportVM-Distributed-Shared-Memory-Engine](https://github.com/gogalvijay/TeleportVM-Distributed-Shared-Memory-Engine)** | `OS` `Distributed Systems` `Computer Architecture` `TCP/IP` | A high-performance Distributed Shared Memory (DSM) system written in pure C that transparently unifies the virtual address spaces of multiple networked Linux machines |
+| **[Custom VPN — vpn_daemon](https://github.com/gogalvijay/VPN)** | `Sockets` `Computer Networks` `I/O` | A lightweight, encrypted VPN tunnel written in C using Linux TUN interfaces, UDP transport, and libsodium for authenticated encryption.|
+| **[Distributed-Log-Structured-Merge-LSM-Tree](https://github.com/gogalvijay/Distributed-Log-Structured-Merge-LSM-Tree)** | `DBMS` `LSM-tree` | A high-performance, persistent key-value storage engine built in C++. |
+| **[TetrisMem: Compacting Garbage Collector Engine](https://github.com/gogalvijay/TetrisMem)** | `Memory Management` `Garbage collection` | A custom, low-level virtual memory allocator and sliding compacting garbage collection engine written in pure C. |
 
 ---
 
